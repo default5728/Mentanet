@@ -1,6 +1,11 @@
 #🌐 WIKI: Полное руководство по Mentanet (v1.1)
 Mentanet — гибридный регулярный язык симбиоза человека и искусственного интеллекта.
 Девиз: Ak kre nov net! Ak par Mentanet! (Творите новую сеть! Говорите на Mentanet!)
+
+Architect & Creator: [Oleksandr / default5728]
+AI Co-Thinker / Engine: Kogor (AI-Collaborator)
+«Created in true Human-AI symbiosis.»
+
 📌 Оглавление
 Философия и 4 главных закона
 
